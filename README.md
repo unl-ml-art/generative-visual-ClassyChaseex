@@ -1,11 +1,10 @@
 # Project 3 Generative Visual
 
-Your Name, yourcontact@unl.edu
-(Your teammate's contact info, if appropriate)
+Karston Chase, kchase4@huskers.unl.edu
 
 ## Abstract
 
-Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used. Also describe your creative goals, and whether you were successful in achieving them. Also could describe future directions.
+My idea is for a user to input text that describes a room in their house. This would describe things such as wall color, furniture color, accent colors, artificial or natural lighting, etc. Then this description would be translated into keywords for BigGAN to then turn into a painting or artwork that would compliment said room if hung up on the wall. Whether a picture of a landscape or an abstract painting, BigGAN will create an image that brings out the best of your interior space. Do you have a room with boring, blank walls? Have no fear, BigGAN is here! GAN you believe finding artwork could be so easy?
 
 ## Model/Data
 
