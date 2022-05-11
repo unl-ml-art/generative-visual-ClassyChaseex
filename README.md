@@ -22,7 +22,7 @@ My idea is for a user to input text that describes a room in their house. This w
 ## Results
 
 - Project 3 - P(AI)nting Picker.pdf is the completed slides file showing the full conceptualization of this project. NOTE - There are more in-depth comments and further details witten in the 'Speaker Notes' section on a few of the slides. Here is the URL for the slides as well: https://docs.google.com/presentation/d/10KDPYAGC_L8GuXNLg3-djRU7NnlsOoEa-K6_FVLCLBI/edit?usp=sharing
-- The full resolution images used in the Google Slides presentaion are provided in this repository and labeled below.
+- The full resolution images used in the Google Slides presentation are provided in this repository and labeled below.
 - googlesheets-screenshot.png is the image taken of the data categorization I completed from BigGAN's training data.
 - biggan-screenshot.png is the image taken from some image generation and interpolation I was messing around with. The corner images represent some photographic images that could be produced from a color pallet selcted from the options: [White] [Pink] [Natural Lighting]
 - samoyed-image.jpg is an image of a Samoyed before being processed by StyleGAN.
